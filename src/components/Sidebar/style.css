@@ -1,0 +1,32 @@
+#sideBar {
+    border-left: 2px dotted red;
+    width: 25%;
+    float: right;
+    height: 100vh;
+    padding-top: 20px;
+}
+
+#titleOfPage {
+    border-bottom: 2px dotted blue;
+    height: 20vh;
+}
+
+img {
+    height: 50px;
+    margin-left: 15px;
+}
+
+#imagesSpan {
+    display: flex;
+    justify-content: center;
+}
+
+#connectTitle {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#renderedTitle {
+    margin-left: 50px;
+    padding-top: 40px;
+}

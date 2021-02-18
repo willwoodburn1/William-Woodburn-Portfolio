@@ -1,0 +1,14 @@
+#selfie {
+    height: 300px;
+    float: right;
+    margin-top: 60px;
+    margin-right: 60px;
+}
+
+#introPara {
+    border: 1px solid green;
+    width: 40%;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+}

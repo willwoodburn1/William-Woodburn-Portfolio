@@ -1,0 +1,14 @@
+#navbar {
+    background-color: rgb(4, 4, 110);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-link {
+    color: white;
+    text-align: center;
+}
+
+
+
