@@ -6,7 +6,7 @@ function Selfie() {
     return (
         <div>
 
-            <p id="introPara"> Hello there! My name is William Woodburn. I'm a Business Student at Monash University, Full-Stack Web Developer, Aspiring Entrepreneur, and Investor </p>
+            {/* <p id="introPara"> Hello there! My name is William Woodburn. I'm a Business Student at Monash University, Full-Stack Web Developer, Aspiring Entrepreneur, and Investor </p> */}
 
             <img src={Me} alt="selfie" id="selfie"></img>
 

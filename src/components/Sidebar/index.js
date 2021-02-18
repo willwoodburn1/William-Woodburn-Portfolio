@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import Linkedin from "../../images/linkedinLogo.png";
 import Resume from "../../images/resumeLogo.png";
 import Github from "../../images/githubLogo.png";
@@ -6,6 +6,10 @@ import Github from "../../images/githubLogo.png";
 import "./style.css";
 
 function Sidebar() {
+
+    // const [greeting, setGreeting] = useState()
+
+
     return (
         <div>
             <aside id="sideBar">
@@ -18,9 +22,19 @@ function Sidebar() {
 
                 </span>
 
+                <div id="contactInfo">
+                    <h4 id="contactTitle"> <strong>Contact Info: </strong> </h4> <br />
+                    <h6> <strong>Name: </strong> William Woodburn </h6> <br />
+                    <h6> <strong>Email: </strong> woodburn.william1@gmail.com</h6> <br />
+                    <h6> <strong>Phone: </strong> 0497803106 </h6> <br />
+                    <h6> <strong>Address: </strong> 56 College Walk, Clayton, 3168 </h6>
+                </div>
+
             </aside>
+
+
             <div id="titleOfPage">
-                <h1 id="renderedTitle"> Stuff To Render </h1>
+                <h1 id="renderedTitle"> Hello There </h1>
             </div>
 
         </div>

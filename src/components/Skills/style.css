@@ -1,0 +1,16 @@
+#skillsList {
+    border: 1px solid green;
+    width: 40%;
+}
+
+.skill {
+    margin-bottom: 10px;
+}
+
+#skillsTitle {
+    text-align: center;
+}
+
+#skillsSection {
+
+}

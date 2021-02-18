@@ -1,5 +1,5 @@
 #sideBar {
-    border-left: 2px dotted red;
+    border-left: 2px dotted blue;
     width: 25%;
     float: right;
     height: 100vh;
@@ -29,4 +29,13 @@ img {
 #renderedTitle {
     margin-left: 50px;
     padding-top: 40px;
+}
+
+#contactInfo {
+    margin-left: 25px;
+    padding-top: 140px;
+}
+
+#contactTitle {
+    text-align: center;
 }
