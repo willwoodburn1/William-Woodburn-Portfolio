@@ -6,8 +6,10 @@ import Awards from "../components/Awards";
 function SkillsAwards() {
     return (
         <div>
-            <Skills />
-            <Awards />
+            <span>
+                <Skills />
+                <Awards />
+            </span>
 
         </div>
     )

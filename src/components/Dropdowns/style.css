@@ -1,0 +1,12 @@
+#one {
+    float: left;
+    margin-right: 8px;
+}
+
+#dropdownSpan {
+    margin: auto;
+    display: flex;
+    position: absolute;
+    left: 2%;
+    margin-top: 20px;
+}
