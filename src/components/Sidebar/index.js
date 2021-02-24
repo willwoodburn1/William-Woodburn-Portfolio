@@ -34,7 +34,7 @@ function Sidebar() {
 
 
             <div id="titleOfPage">
-                <h1 id="renderedTitle"> Hello There </h1>
+                <h1 id="renderedTitle"> Portfolio Site </h1>
             </div>
 
         </div>
